@@ -1,0 +1,3 @@
+[submodule "NoSQL2SQL"]
+	path = NoSQL2SQL
+	url = https://github.com/tachev/NoSQL2SQL.git
